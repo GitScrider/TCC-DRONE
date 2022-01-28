@@ -1,0 +1,1560 @@
+WARNING (------): DXF version not recognised or not release 12-15.
+ASCII DXF release 15 is recommended
+XRECORD: name="ACAD_CIP_PREVIOUS_PRODUCT_INFO", handle="216", group="280", value="     1"
+WARNING (030832): XRECORD object group 300 unknown/not supported - ignored.
+WARNING (030834): XRECORD object group 300 unknown/not supported - ignored.
+WARNING (030836): XRECORD object group 300 unknown/not supported - ignored.
+XRECORD: name="ACDB_RECOMPOSE_DATA", handle="27D", group="280", value="     1"
+WARNING (031282): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (036270): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (036272): XRECORD object group 2 unknown/not supported - ignored.
+WARNING (036274): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (036276): XRECORD object group 91 unknown/not supported - ignored.
+WARNING (036318): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (036320): XRECORD object group 2 unknown/not supported - ignored.
+WARNING (036322): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (036324): XRECORD object group 91 unknown/not supported - ignored.
+WARNING (036370): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (036374): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (036506): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (036508): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (036510): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036512): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036514): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036516): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036518): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036520): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036522): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036524): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036526): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036528): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036530): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036532): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036534): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036536): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036538): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036540): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036542): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036544): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036546): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036548): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036550): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036552): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036554): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036556): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036558): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036560): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036562): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036564): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036566): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036568): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036570): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036572): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036574): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036576): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036578): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036580): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036582): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036584): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036586): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036588): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036590): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036592): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036594): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036596): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036598): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (036636): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (036638): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (036768): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (036770): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (036810): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (036814): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037480): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (037488): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (037496): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (037504): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (037512): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (037520): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (037528): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (037536): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (037544): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (037552): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037560): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (037568): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (037576): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037584): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037588): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037596): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037604): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037612): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037616): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037624): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (037632): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037640): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037648): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037656): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (037664): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037672): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037676): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037684): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (037692): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (037700): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (037708): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (037716): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (037724): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (038520): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (038528): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (038536): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (038544): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (038552): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (038560): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (038568): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (038576): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (038584): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (038592): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038600): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (038608): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (038616): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038624): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038628): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038636): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038644): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038652): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038656): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038664): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (038672): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038680): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038688): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038696): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (038704): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038712): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038716): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038724): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (038732): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (038740): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (038748): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (038756): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (038764): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (039560): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (039568): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (039576): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (039584): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (039592): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (039600): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (039608): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (039616): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (039624): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (039632): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039640): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (039648): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (039656): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039664): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039668): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039676): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039684): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039692): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039696): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039704): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (039712): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039720): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039728): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039736): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (039744): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039752): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039756): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039764): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (039772): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (039780): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (039788): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (039796): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (039804): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (040600): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (040608): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (040616): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (040624): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (040632): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (040640): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (040648): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (040656): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (040664): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (040672): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040680): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (040688): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (040696): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040704): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040708): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040716): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040724): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040732): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040736): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040744): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (040752): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040760): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040768): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040776): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (040784): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040792): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040796): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040804): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (040812): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (040820): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (040828): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (040836): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (040844): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (041640): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (041648): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (041656): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (041664): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (041672): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (041680): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (041688): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (041696): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (041704): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (041712): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041720): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (041728): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (041736): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041744): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041748): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041756): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041764): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041772): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041776): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041784): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (041792): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041800): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041808): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041816): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (041824): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041832): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041836): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041844): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (041852): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (041860): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (041868): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (041876): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (041884): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (042680): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (042688): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (042696): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (042704): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (042712): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (042720): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (042728): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (042736): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (042744): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (042752): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042760): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (042768): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (042776): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042784): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042788): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042796): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042804): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042812): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042816): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042824): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (042832): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042840): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042848): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042856): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (042864): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042872): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042876): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042884): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (042892): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042900): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (042908): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (042916): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (042924): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (043720): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (043728): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (043736): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (043744): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (043752): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (043760): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (043768): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (043776): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (043784): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (043792): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043800): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (043808): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (043816): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043824): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043828): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043836): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043844): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043852): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043856): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043864): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (043872): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043880): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043888): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043896): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (043904): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043912): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043916): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043924): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (043932): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043940): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (043948): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (043956): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (043964): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (044760): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (044768): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (044776): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (044784): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (044792): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (044800): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (044808): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (044816): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (044824): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (044832): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044840): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (044848): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (044856): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044864): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044868): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044876): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044884): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044892): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044896): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044904): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (044912): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044920): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044928): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044936): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (044944): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044952): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044956): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044964): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (044972): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (044980): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (044988): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (044996): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (045004): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (045800): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (045808): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (045816): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (045824): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (045832): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (045840): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (045848): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (045856): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (045864): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (045872): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045880): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (045888): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (045896): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045904): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045908): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045916): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045924): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045932): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045936): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045944): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (045952): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045960): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045968): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045976): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (045984): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045992): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (045996): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (046004): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (046012): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (046020): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (046028): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (046036): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (046044): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (046840): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (046848): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (046856): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (046864): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (046872): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (046880): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (046888): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (046896): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (046904): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (046912): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (046920): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (046928): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (046936): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (046944): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (046948): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (046956): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (046964): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (046972): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (046976): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (046984): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (046992): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (047000): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (047008): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (047016): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (047024): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (047032): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (047036): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (047044): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (047052): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (047060): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (047068): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (047076): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (047084): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (047880): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (047888): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (047896): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (047904): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (047912): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (047920): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (047928): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (047936): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (047944): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (047952): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (047960): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (047968): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (047976): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (047984): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (047988): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (047996): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (048004): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (048012): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (048016): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (048024): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (048032): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (048040): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (048048): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (048056): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (048064): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (048072): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (048076): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (048084): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (048092): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (048100): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (048108): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (048116): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (048124): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (048920): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (048928): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (048936): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (048944): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (048952): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (048960): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (048968): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (048976): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (048984): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (048992): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049000): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (049008): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (049016): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049024): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049028): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049036): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049044): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049052): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049056): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049064): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (049072): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049080): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049088): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049096): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (049104): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049112): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049116): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049124): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (049132): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (049140): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (049148): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (049156): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (049164): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (002426): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002428): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Model_Space", org=(0,0), 0 entities.
+WARNING (002450): BLOCK object group 67 unknown/not supported - ignored.
+WARNING (002466): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002468): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space", org=(0,0), 0 entities.
+WARNING (002478): BLOCKS section group 67 unknown/not supported - ignored.
+WARNING (002492): BLOCK object group 67 unknown/not supported - ignored.
+WARNING (002508): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002510): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space0", org=(0,0), 0 entities.
+WARNING (002520): BLOCKS section group 67 unknown/not supported - ignored.
+LWPOLYLINE entity, line 2532
+LWPOLYLINE: layer="BottomLayer", flags=0x00, #pts=4, 0=(36129,28387), 1=(36129,29677), 2=(32258,33548), 3=(29032,33548)
+LWPOLYLINE entity, line 2566
+LWPOLYLINE: layer="BottomLayer", flags=0x00, #pts=5, 0=(34193,16129), 1=(36129,16129), 2=(38064,18064), 3=(38064,26452), 4=(36129,28387)
+LWPOLYLINE entity, line 2604
+LWPOLYLINE: layer="BottomLayer", flags=0x00, #pts=2, 0=(48387,9677), 1=(40645,9677)
+LWPOLYLINE entity, line 2630
+LWPOLYLINE: layer="BottomLayer", flags=0x00, #pts=3, 0=(40645,9677), 1=(34839,9677), 2=(33548,10968)
+LWPOLYLINE entity, line 2660
+LWPOLYLINE: layer="BottomLayer", flags=0x00, #pts=2, 0=(23548,10968), 1=(33548,10968)
+LWPOLYLINE entity, line 2686
+LWPOLYLINE: layer="BottomLayer", flags=0x00, #pts=4, 0=(35484,19355), 1=(35484,21290), 2=(16774,21290), 3=(14194,18710)
+LWPOLYLINE entity, line 2720
+LWPOLYLINE: layer="BottomLayer", flags=0x00, #pts=3, 0=(18710,18710), 1=(18710,4516), 2=(17419,3226)
+LWPOLYLINE entity, line 2750
+LWPOLYLINE: layer="BottomLayer", flags=0x00, #pts=3, 0=(10968,3226), 1=(10968,25806), 2=(12903,27742)
+LWPOLYLINE entity, line 2780
+LWPOLYLINE: layer="BoardOutline", flags=0x01, #pts=7, 0=(0,41935), 1=(0,41935), 2=(54193,41935), 3=(54193,0), 4=(0,0), 5=(0,41935), 6=(0,41935)
+LWPOLYLINE entity, line 2822
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=5, 0=(23587,23742), 1=(23587,22219), 2=(23871,21935), 3=(23871,21290), 4=(26774,18387)
+LWPOLYLINE entity, line 2860
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(32129,20303), 1=(28690,20303), 2=(26774,18387)
+LWPOLYLINE entity, line 2890
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=5, 0=(23613,13032), 1=(23613,14581), 2=(23871,14839), 3=(23871,15484), 4=(26774,18387)
+LWPOLYLINE entity, line 2928
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=4, 0=(4516,3226), 1=(4516,6452), 2=(3226,7742), 3=(3226,10323)
+LWPOLYLINE entity, line 2962
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=2, 0=(3226,10323), 1=(3226,18064)
+LWPOLYLINE entity, line 2988
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=6, 0=(3226,18064), 1=(3226,20000), 2=(3871,20645), 3=(7742,20645), 4=(7742,18374), 5=(8052,18064)
+LWPOLYLINE entity, line 3030
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(5639,18064), 1=(5639,15639), 2=(5484,15484)
+LWPOLYLINE entity, line 3060
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=4, 0=(10968,3226), 1=(10968,5806), 2=(10968,6594), 3=(7239,10323)
+LWPOLYLINE entity, line 3094
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(7239,10323), 1=(7239,13729), 2=(5484,15484)
+LWPOLYLINE entity, line 3124
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(7097,27742), 1=(9755,27742), 2=(12903,24593)
+LWPOLYLINE entity, line 3154
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(12903,24593), 1=(17342,24593), 2=(17419,24516)
+LWPOLYLINE entity, line 3184
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(17419,24516), 1=(22813,24516), 2=(23587,23742)
+LWPOLYLINE entity, line 3214
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=5, 0=(25019,30968), 1=(23226,30968), 2=(22581,30323), 3=(22581,24748), 4=(22813,24516)
+LWPOLYLINE entity, line 3252
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=5, 0=(45806,14839), 1=(45806,19355), 2=(43226,21935), 3=(40722,21935), 4=(40645,21858)
+LWPOLYLINE entity, line 3290
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(29935,23742), 1=(29935,30064), 2=(29032,30968)
+LWPOLYLINE entity, line 3320
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(36129,12258), 1=(34839,12258), 2=(33548,10968)
+LWPOLYLINE entity, line 3350
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=2, 0=(40645,12258), 1=(40645,9677)
+LWPOLYLINE entity, line 3376
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(48387,9677), 1=(46645,9677), 2=(45806,10516)
+LWPOLYLINE entity, line 3406
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=5, 0=(40645,15561), 1=(42503,15561), 2=(42581,15484), 3=(42581,3226), 4=(43226,3226)
+LWPOLYLINE entity, line 3444
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=6, 0=(36774,3226), 1=(36774,6452), 2=(36129,7097), 3=(31613,7097), 4=(31613,14710), 5=(32129,15226)
+LWPOLYLINE entity, line 3486
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(32129,17768), 1=(38439,17768), 2=(40645,15561)
+LWPOLYLINE entity, line 3516
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=4, 0=(23871,3226), 1=(23871,9032), 2=(20645,9032), 3=(17419,12258)
+LWPOLYLINE entity, line 3550
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(17419,12258), 1=(18348,12258), 2=(21355,15264)
+LWPOLYLINE entity, line 3580
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(17419,3226), 1=(17419,7742), 2=(12903,12258)
+LWPOLYLINE entity, line 3610
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=2, 0=(17419,15561), 1=(12903,15561)
+LWPOLYLINE entity, line 3636
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=6, 0=(12903,15561), 1=(12903,17419), 2=(9677,20645), 3=(9677,25806), 4=(3226,25806), 5=(3226,23652)
+LWPOLYLINE entity, line 3678
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(3794,27742), 1=(3794,26374), 2=(3226,25806)
+LWPOLYLINE entity, line 3708
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=7, 0=(49677,3226), 1=(49677,7742), 2=(50322,8387), 3=(50322,19355), 4=(38064,31613), 5=(32258,31613), 6=(32258,23226)
+LWPOLYLINE entity, line 3754
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(32258,23226), 1=(32258,21703), 2=(32129,21574)
+LWPOLYLINE entity, line 3784
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=5, 0=(30323,3226), 1=(30323,10968), 2=(30000,11290), 3=(30000,12994), 4=(29961,13032)
+LWPOLYLINE entity, line 3822
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(12903,21290), 1=(12903,20000), 2=(14194,18710)
+LWPOLYLINE entity, line 3852
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(32129,19032), 1=(35161,19032), 2=(35484,19355)
+LWPOLYLINE entity, line 3882
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(32129,16497), 1=(33826,16497), 2=(34193,16129)
+LWPOLYLINE entity, line 3912
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(34193,16129), 1=(35561,16129), 2=(36129,15561)
+LWPOLYLINE entity, line 3942
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=2, 0=(40645,25161), 1=(36129,25161)
+LWPOLYLINE entity, line 3968
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=2, 0=(29032,30968), 1=(29032,33548)
+LWPOLYLINE entity, line 3994
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=2, 0=(36129,25161), 1=(36129,28387)
+LWPOLYLINE entity, line 4020
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=7, 0=(36129,21858), 1=(35406,21858), 2=(34193,20645), 3=(33548,20645), 4=(33548,20323), 5=(32148,20323), 6=(32129,20303)
+LWPOLYLINE entity, line 4066
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(23548,10968), 1=(23548,12968), 2=(23613,13032)
+LWPOLYLINE entity, line 4096
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=3, 0=(21355,16535), 1=(20884,16535), 2=(18710,18710)
+LWPOLYLINE entity, line 4126
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=6, 0=(29032,33548), 1=(14194,33548), 2=(12903,32258), 3=(10968,30323), 4=(6374,30323), 5=(3794,27742)
+LWPOLYLINE entity, line 4168
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=2, 0=(12903,27742), 1=(12903,24593)
+LWPOLYLINE entity, line 4194
+LWPOLYLINE: layer="TopLayer", flags=0x00, #pts=5, 0=(21355,20342), 1=(19658,20342), 2=(18710,21290), 3=(17497,21290), 4=(17419,21213)
+LWPOLYLINE entity, line 4232
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=3, 0=(22329,12926), 1=(21313,12926), 2=(21313,13942)
+LWPOLYLINE entity, line 4262
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=3, 0=(21313,22832), 1=(21313,23848), 2=(22329,23848)
+LWPOLYLINE entity, line 4292
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=3, 0=(32235,22832), 1=(32235,23848), 2=(31219,23848)
+LWPOLYLINE entity, line 4322
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=3, 0=(32235,13942), 1=(32235,12926), 2=(31219,12926)
+LWPOLYLINE entity, line 4352
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=2, 0=(9728,18572), 1=(9728,23144)
+LWPOLYLINE entity, line 4378
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=2, 0=(1550,23144), 1=(1550,16921)
+LWPOLYLINE entity, line 4404
+LWPOLYLINE: layer="Mechanical", flags=0x01, #pts=6, 0=(1067,16032), 1=(1067,25684), 2=(10211,25684), 3=(10211,16032), 4=(1067,16032), 5=(1067,16032)
+LWPOLYLINE entity, line 4442
+LWPOLYLINE: layer="Document", flags=0x01, #pts=7, 0=(9576,23144), 1=(9576,18572), 2=(3353,18572), 3=(1702,20223), 4=(1702,23144), 5=(9576,23144), 6=(9576,23144)
+LWPOLYLINE entity, line 4484
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=4, 0=(6199,8316), 1=(9223,8316), 2=(9223,12329), 3=(6199,12329)
+LWPOLYLINE entity, line 4518
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=7, 0=(4516,12258), 1=(1634,12258), 2=(1035,11542), 3=(1035,10252), 4=(1035,8961), 5=(1634,8245), 6=(4516,8245)
+LWPOLYLINE entity, line 4564
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=4, 0=(26059,32974), 1=(23035,32974), 2=(23035,28961), 3=(26059,28961)
+LWPOLYLINE entity, line 4598
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=7, 0=(27742,29032), 1=(30624,29032), 2=(31223,29748), 3=(31223,31039), 4=(31223,32329), 5=(30624,33045), 6=(27742,33045)
+LWPOLYLINE entity, line 4644
+LWPOLYLINE: layer="TopSilkLayer", flags=0x01, #pts=6, 0=(34351,10353), 1=(34351,17465), 2=(37907,17465), 3=(37907,10353), 4=(34351,10353), 5=(34351,10353)
+LWPOLYLINE entity, line 4682
+LWPOLYLINE: layer="TopSilkLayer", flags=0x01, #pts=6, 0=(42423,27066), 1=(42423,19954), 2=(38867,19954), 3=(38867,27066), 4=(42423,27066), 5=(42423,27066)
+LWPOLYLINE entity, line 4720
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=2, 0=(43613,17161), 1=(43613,13419)
+LWPOLYLINE entity, line 4746
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=2, 0=(48000,17161), 1=(48000,13419)
+LWPOLYLINE entity, line 4772
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=2, 0=(48000,17161), 1=(43613,17161)
+LWPOLYLINE entity, line 4798
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=2, 0=(43613,11935), 1=(43613,8968)
+LWPOLYLINE entity, line 4824
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=2, 0=(48000,11871), 1=(48000,8968)
+LWPOLYLINE entity, line 4850
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=4, 0=(48000,8968), 1=(47097,8064), 2=(44516,8064), 3=(43613,8968)
+LWPOLYLINE entity, line 4884
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=6, 0=(46774,13032), 1=(44774,13032), 2=(45419,12387), 3=(46322,12387), 4=(46968,13032), 5=(46387,13032)
+LWPOLYLINE entity, line 4926
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=2, 0=(45226,12710), 1=(46516,12710)
+LWPOLYLINE entity, line 4952
+LWPOLYLINE: layer="TopSilkLayer", flags=0x01, #pts=6, 0=(37907,27066), 1=(37907,19954), 2=(34351,19954), 3=(34351,27066), 4=(37907,27066), 5=(37907,27066)
+LWPOLYLINE entity, line 4990
+LWPOLYLINE: layer="TopSilkLayer", flags=0x01, #pts=6, 0=(11125,19385), 1=(11125,26497), 2=(14681,26497), 3=(14681,19385), 4=(11125,19385), 5=(11125,19385)
+LWPOLYLINE entity, line 5028
+LWPOLYLINE: layer="TopSilkLayer", flags=0x01, #pts=6, 0=(15641,10353), 1=(15641,17465), 2=(19197,17465), 3=(19197,10353), 4=(15641,10353), 5=(15641,10353)
+LWPOLYLINE entity, line 5066
+LWPOLYLINE: layer="TopSilkLayer", flags=0x01, #pts=6, 0=(11125,10353), 1=(11125,17465), 2=(14681,17465), 3=(14681,10353), 4=(11125,10353), 5=(11125,10353)
+LWPOLYLINE entity, line 5104
+LWPOLYLINE: layer="TopSilkLayer", flags=0x01, #pts=6, 0=(19197,26421), 1=(19197,19309), 2=(15641,19309), 3=(15641,26421), 4=(19197,26421), 5=(19197,26421)
+LWPOLYLINE entity, line 5142
+LWPOLYLINE: layer="TopSilkLayer", flags=0x01, #pts=6, 0=(9002,25964), 1=(1890,25964), 2=(1890,29520), 3=(9002,29520), 4=(9002,25964), 5=(9002,25964)
+LWPOLYLINE entity, line 5180
+LWPOLYLINE: layer="TopSilkLayer", flags=0x01, #pts=6, 0=(38867,10353), 1=(38867,17465), 2=(42423,17465), 3=(42423,10353), 4=(38867,10353), 5=(38867,10353)
+LWPOLYLINE entity, line 5218
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=5, 0=(52903,6452), 1=(52903,0), 2=(1290,0), 3=(1290,6452), 4=(6129,6452)
+LWPOLYLINE entity, line 5256
+LWPOLYLINE: layer="TopSilkLayer", flags=0x00, #pts=2, 0=(52903,6452), 1=(6129,6452)
+ARC entity, line 5282
+ARC: layer="TopSilkLayer", c=(21697,12103), r=317, start=0.0ø, end=0.0ø
+TEXT entity, line 5308
+WARNING (005316): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005318): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [U1], ip=(24516,26161), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="U1", o=(24516,26161), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5338
+WARNING (005346): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005348): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [U3], ip=(3226,21000), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="U3", o=(3226,21000), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5368
+WARNING (005376): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005378): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [C1], ip=(3226,13903), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="C1", o=(3226,13903), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5398
+WARNING (005406): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005408): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [C2], ip=(24516,35839), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="C2", o=(24516,35839), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5428
+WARNING (005436): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005438): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [C3], ip=(33193,8206), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="C3", o=(33193,8206), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5458
+WARNING (005466): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005468): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [R1], ip=(39000,28877), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="R1", o=(39000,28877), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5488
+WARNING (005496): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005498): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [LED1], ip=(50968,12903), rp=(0,0), rot=90.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="LED1", o=(50968,12903), r=90.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5518
+WARNING (005526): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005528): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [C4], ip=(33839,28716), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="C4", o=(33839,28716), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5548
+WARNING (005556): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005558): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [C5], ip=(9968,28206), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="C5", o=(9968,28206), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5578
+WARNING (005586): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005588): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [R2], ip=(15774,8335), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="R2", o=(15774,8335), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5608
+WARNING (005616): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005618): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [R3], ip=(10613,8335), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="R3", o=(10613,8335), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5638
+WARNING (005646): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005648): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [C6], ip=(15129,28335), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="C6", o=(15129,28335), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5668
+WARNING (005676): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005678): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [C7], ip=(1935,30645), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=1778, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="C7", o=(1935,30645), r=0.0ø, mf=0000, ch=1778, cw=1778, jf=0000
+TEXT entity, line 5698
+WARNING (005706): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005708): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [R4], ip=(39000,8206), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="R4", o=(39000,8206), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+TEXT entity, line 5728
+WARNING (005736): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (005738): TEXT entity group 461 unknown/not supported - ignored.
+TEXT [J1], ip=(25161,8097), rp=(0,0), rot=0.0ø, mir=1, jf=0, ch=2903, xsf=1.000000
+TEXT: layer="TopSilkLayer", text="J1", o=(25161,8097), r=0.0ø, mf=0000, ch=2903, cw=2903, jf=0000
+CIRCLE entity, line 5758
+CIRCLE: layer="TopSolderLayer", c=(10968,3226), r=1129
+CIRCLE entity, line 5778
+CIRCLE: layer="TopSolderLayer", c=(10968,3226), r=2000
+HATCH entity, line 5798
+WARNING (005798): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 5900
+CIRCLE: layer="BottomSolderLayer", c=(10968,3226), r=1129
+CIRCLE entity, line 5920
+CIRCLE: layer="BottomSolderLayer", c=(10968,3226), r=2000
+HATCH entity, line 5940
+WARNING (005940): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 6042
+CIRCLE: layer="Multi-Layer", c=(10968,3226), r=1129
+CIRCLE entity, line 6062
+CIRCLE: layer="Multi-Layer", c=(10968,3226), r=2000
+HATCH entity, line 6082
+WARNING (006082): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 6184
+CIRCLE: layer="TopSolderLayer", c=(17419,3226), r=1129
+CIRCLE entity, line 6204
+CIRCLE: layer="TopSolderLayer", c=(17419,3226), r=2000
+HATCH entity, line 6224
+WARNING (006224): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 6326
+CIRCLE: layer="BottomSolderLayer", c=(17419,3226), r=1129
+CIRCLE entity, line 6346
+CIRCLE: layer="BottomSolderLayer", c=(17419,3226), r=2000
+HATCH entity, line 6366
+WARNING (006366): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 6468
+CIRCLE: layer="Multi-Layer", c=(17419,3226), r=1129
+CIRCLE entity, line 6488
+CIRCLE: layer="Multi-Layer", c=(17419,3226), r=2000
+HATCH entity, line 6508
+WARNING (006508): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 6610
+CIRCLE: layer="TopSolderLayer", c=(23871,3226), r=1129
+CIRCLE entity, line 6630
+CIRCLE: layer="TopSolderLayer", c=(23871,3226), r=2000
+HATCH entity, line 6650
+WARNING (006650): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 6752
+CIRCLE: layer="BottomSolderLayer", c=(23871,3226), r=1129
+CIRCLE entity, line 6772
+CIRCLE: layer="BottomSolderLayer", c=(23871,3226), r=2000
+HATCH entity, line 6792
+WARNING (006792): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 6894
+CIRCLE: layer="Multi-Layer", c=(23871,3226), r=1129
+CIRCLE entity, line 6914
+CIRCLE: layer="Multi-Layer", c=(23871,3226), r=2000
+HATCH entity, line 6934
+WARNING (006934): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 7036
+CIRCLE: layer="TopSolderLayer", c=(30323,3226), r=1129
+CIRCLE entity, line 7056
+CIRCLE: layer="TopSolderLayer", c=(30323,3226), r=2000
+HATCH entity, line 7076
+WARNING (007076): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 7178
+CIRCLE: layer="BottomSolderLayer", c=(30323,3226), r=1129
+CIRCLE entity, line 7198
+CIRCLE: layer="BottomSolderLayer", c=(30323,3226), r=2000
+HATCH entity, line 7218
+WARNING (007218): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 7320
+CIRCLE: layer="Multi-Layer", c=(30323,3226), r=1129
+CIRCLE entity, line 7340
+CIRCLE: layer="Multi-Layer", c=(30323,3226), r=2000
+HATCH entity, line 7360
+WARNING (007360): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 7462
+CIRCLE: layer="TopSolderLayer", c=(36774,3226), r=1129
+CIRCLE entity, line 7482
+CIRCLE: layer="TopSolderLayer", c=(36774,3226), r=2000
+HATCH entity, line 7502
+WARNING (007502): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 7604
+CIRCLE: layer="BottomSolderLayer", c=(36774,3226), r=1129
+CIRCLE entity, line 7624
+CIRCLE: layer="BottomSolderLayer", c=(36774,3226), r=2000
+HATCH entity, line 7644
+WARNING (007644): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 7746
+CIRCLE: layer="Multi-Layer", c=(36774,3226), r=1129
+CIRCLE entity, line 7766
+CIRCLE: layer="Multi-Layer", c=(36774,3226), r=2000
+HATCH entity, line 7786
+WARNING (007786): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 7888
+CIRCLE: layer="TopSolderLayer", c=(43226,3226), r=1129
+CIRCLE entity, line 7908
+CIRCLE: layer="TopSolderLayer", c=(43226,3226), r=2000
+HATCH entity, line 7928
+WARNING (007928): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 8030
+CIRCLE: layer="BottomSolderLayer", c=(43226,3226), r=1129
+CIRCLE entity, line 8050
+CIRCLE: layer="BottomSolderLayer", c=(43226,3226), r=2000
+HATCH entity, line 8070
+WARNING (008070): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 8172
+CIRCLE: layer="Multi-Layer", c=(43226,3226), r=1129
+CIRCLE entity, line 8192
+CIRCLE: layer="Multi-Layer", c=(43226,3226), r=2000
+HATCH entity, line 8212
+WARNING (008212): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 8314
+CIRCLE: layer="TopSolderLayer", c=(49677,3226), r=1129
+CIRCLE entity, line 8334
+CIRCLE: layer="TopSolderLayer", c=(49677,3226), r=2000
+HATCH entity, line 8354
+WARNING (008354): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 8456
+CIRCLE: layer="BottomSolderLayer", c=(49677,3226), r=1129
+CIRCLE entity, line 8476
+CIRCLE: layer="BottomSolderLayer", c=(49677,3226), r=2000
+HATCH entity, line 8496
+WARNING (008496): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 8598
+CIRCLE: layer="Multi-Layer", c=(49677,3226), r=1129
+CIRCLE entity, line 8618
+CIRCLE: layer="Multi-Layer", c=(49677,3226), r=2000
+HATCH entity, line 8638
+WARNING (008638): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 8740
+CIRCLE: layer="TopSolderLayer", c=(23613,13032), r=1
+HATCH entity, line 8760
+WARNING (008760): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 8874
+CIRCLE: layer="TopPasterLayer", c=(23613,13032), r=1
+HATCH entity, line 8894
+WARNING (008894): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 9008
+CIRCLE: layer="TopLayer", c=(23613,13032), r=1
+HATCH entity, line 9028
+WARNING (009028): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 9142
+CIRCLE: layer="TopSolderLayer", c=(24884,13032), r=1
+HATCH entity, line 9162
+WARNING (009162): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 9276
+CIRCLE: layer="TopPasterLayer", c=(24884,13032), r=1
+HATCH entity, line 9296
+WARNING (009296): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 9410
+CIRCLE: layer="TopLayer", c=(24884,13032), r=1
+HATCH entity, line 9430
+WARNING (009430): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 9544
+CIRCLE: layer="TopSolderLayer", c=(26155,13032), r=1
+HATCH entity, line 9564
+WARNING (009564): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 9678
+CIRCLE: layer="TopPasterLayer", c=(26155,13032), r=1
+HATCH entity, line 9698
+WARNING (009698): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 9812
+CIRCLE: layer="TopLayer", c=(26155,13032), r=1
+HATCH entity, line 9832
+WARNING (009832): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 9946
+CIRCLE: layer="TopSolderLayer", c=(27419,13032), r=1
+HATCH entity, line 9966
+WARNING (009966): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 10080
+CIRCLE: layer="TopPasterLayer", c=(27419,13032), r=1
+HATCH entity, line 10100
+WARNING (010100): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 10214
+CIRCLE: layer="TopLayer", c=(27419,13032), r=1
+HATCH entity, line 10234
+WARNING (010234): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 10348
+CIRCLE: layer="TopSolderLayer", c=(28690,13032), r=1
+HATCH entity, line 10368
+WARNING (010368): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 10482
+CIRCLE: layer="TopPasterLayer", c=(28690,13032), r=1
+HATCH entity, line 10502
+WARNING (010502): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 10616
+CIRCLE: layer="TopLayer", c=(28690,13032), r=1
+HATCH entity, line 10636
+WARNING (010636): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 10750
+CIRCLE: layer="TopSolderLayer", c=(29961,13032), r=1
+HATCH entity, line 10770
+WARNING (010770): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 10884
+CIRCLE: layer="TopPasterLayer", c=(29961,13032), r=1
+HATCH entity, line 10904
+WARNING (010904): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 11018
+CIRCLE: layer="TopLayer", c=(29961,13032), r=1
+HATCH entity, line 11038
+WARNING (011038): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 11152
+CIRCLE: layer="TopSolderLayer", c=(32129,15226), r=1
+HATCH entity, line 11172
+WARNING (011172): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 11286
+CIRCLE: layer="TopPasterLayer", c=(32129,15226), r=1
+HATCH entity, line 11306
+WARNING (011306): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 11420
+CIRCLE: layer="TopLayer", c=(32129,15226), r=1
+HATCH entity, line 11440
+WARNING (011440): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 11554
+CIRCLE: layer="TopSolderLayer", c=(32129,16497), r=1
+HATCH entity, line 11574
+WARNING (011574): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 11688
+CIRCLE: layer="TopPasterLayer", c=(32129,16497), r=1
+HATCH entity, line 11708
+WARNING (011708): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 11822
+CIRCLE: layer="TopLayer", c=(32129,16497), r=1
+HATCH entity, line 11842
+WARNING (011842): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 11956
+CIRCLE: layer="TopSolderLayer", c=(32129,17768), r=1
+HATCH entity, line 11976
+WARNING (011976): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 12090
+CIRCLE: layer="TopPasterLayer", c=(32129,17768), r=1
+HATCH entity, line 12110
+WARNING (012110): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 12224
+CIRCLE: layer="TopLayer", c=(32129,17768), r=1
+HATCH entity, line 12244
+WARNING (012244): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 12358
+CIRCLE: layer="TopSolderLayer", c=(32129,19032), r=1
+HATCH entity, line 12378
+WARNING (012378): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 12492
+CIRCLE: layer="TopPasterLayer", c=(32129,19032), r=1
+HATCH entity, line 12512
+WARNING (012512): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 12626
+CIRCLE: layer="TopLayer", c=(32129,19032), r=1
+HATCH entity, line 12646
+WARNING (012646): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 12760
+CIRCLE: layer="TopSolderLayer", c=(32129,20303), r=1
+HATCH entity, line 12780
+WARNING (012780): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 12894
+CIRCLE: layer="TopPasterLayer", c=(32129,20303), r=1
+HATCH entity, line 12914
+WARNING (012914): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 13028
+CIRCLE: layer="TopLayer", c=(32129,20303), r=1
+HATCH entity, line 13048
+WARNING (013048): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 13162
+CIRCLE: layer="TopSolderLayer", c=(32129,21574), r=1
+HATCH entity, line 13182
+WARNING (013182): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 13296
+CIRCLE: layer="TopPasterLayer", c=(32129,21574), r=1
+HATCH entity, line 13316
+WARNING (013316): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 13430
+CIRCLE: layer="TopLayer", c=(32129,21574), r=1
+HATCH entity, line 13450
+WARNING (013450): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 13564
+CIRCLE: layer="TopSolderLayer", c=(29935,23742), r=1
+HATCH entity, line 13584
+WARNING (013584): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 13698
+CIRCLE: layer="TopPasterLayer", c=(29935,23742), r=1
+HATCH entity, line 13718
+WARNING (013718): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 13832
+CIRCLE: layer="TopLayer", c=(29935,23742), r=1
+HATCH entity, line 13852
+WARNING (013852): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 13966
+CIRCLE: layer="TopSolderLayer", c=(28664,23742), r=1
+HATCH entity, line 13986
+WARNING (013986): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 14100
+CIRCLE: layer="TopPasterLayer", c=(28664,23742), r=1
+HATCH entity, line 14120
+WARNING (014120): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 14234
+CIRCLE: layer="TopLayer", c=(28664,23742), r=1
+HATCH entity, line 14254
+WARNING (014254): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 14368
+CIRCLE: layer="TopSolderLayer", c=(27393,23742), r=1
+HATCH entity, line 14388
+WARNING (014388): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 14502
+CIRCLE: layer="TopPasterLayer", c=(27393,23742), r=1
+HATCH entity, line 14522
+WARNING (014522): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 14636
+CIRCLE: layer="TopLayer", c=(27393,23742), r=1
+HATCH entity, line 14656
+WARNING (014656): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 14770
+CIRCLE: layer="TopSolderLayer", c=(26129,23742), r=1
+HATCH entity, line 14790
+WARNING (014790): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 14904
+CIRCLE: layer="TopPasterLayer", c=(26129,23742), r=1
+HATCH entity, line 14924
+WARNING (014924): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 15038
+CIRCLE: layer="TopLayer", c=(26129,23742), r=1
+HATCH entity, line 15058
+WARNING (015058): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 15172
+CIRCLE: layer="TopSolderLayer", c=(24858,23742), r=1
+HATCH entity, line 15192
+WARNING (015192): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 15306
+CIRCLE: layer="TopPasterLayer", c=(24858,23742), r=1
+HATCH entity, line 15326
+WARNING (015326): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 15440
+CIRCLE: layer="TopLayer", c=(24858,23742), r=1
+HATCH entity, line 15460
+WARNING (015460): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 15574
+CIRCLE: layer="TopSolderLayer", c=(23587,23742), r=1
+HATCH entity, line 15594
+WARNING (015594): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 15708
+CIRCLE: layer="TopPasterLayer", c=(23587,23742), r=1
+HATCH entity, line 15728
+WARNING (015728): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 15842
+CIRCLE: layer="TopLayer", c=(23587,23742), r=1
+HATCH entity, line 15862
+WARNING (015862): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 15976
+CIRCLE: layer="TopSolderLayer", c=(21355,21613), r=1
+HATCH entity, line 15996
+WARNING (015996): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 16110
+CIRCLE: layer="TopPasterLayer", c=(21355,21613), r=1
+HATCH entity, line 16130
+WARNING (016130): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 16244
+CIRCLE: layer="TopLayer", c=(21355,21613), r=1
+HATCH entity, line 16264
+WARNING (016264): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 16378
+CIRCLE: layer="TopSolderLayer", c=(21355,20342), r=1
+HATCH entity, line 16398
+WARNING (016398): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 16512
+CIRCLE: layer="TopPasterLayer", c=(21355,20342), r=1
+HATCH entity, line 16532
+WARNING (016532): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 16646
+CIRCLE: layer="TopLayer", c=(21355,20342), r=1
+HATCH entity, line 16666
+WARNING (016666): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 16780
+CIRCLE: layer="TopSolderLayer", c=(21355,19071), r=1
+HATCH entity, line 16800
+WARNING (016800): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 16914
+CIRCLE: layer="TopPasterLayer", c=(21355,19071), r=1
+HATCH entity, line 16934
+WARNING (016934): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 17048
+CIRCLE: layer="TopLayer", c=(21355,19071), r=1
+HATCH entity, line 17068
+WARNING (017068): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 17182
+CIRCLE: layer="TopSolderLayer", c=(21355,17806), r=1
+HATCH entity, line 17202
+WARNING (017202): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 17316
+CIRCLE: layer="TopPasterLayer", c=(21355,17806), r=1
+HATCH entity, line 17336
+WARNING (017336): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 17450
+CIRCLE: layer="TopLayer", c=(21355,17806), r=1
+HATCH entity, line 17470
+WARNING (017470): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 17584
+CIRCLE: layer="TopSolderLayer", c=(21355,16535), r=1
+HATCH entity, line 17604
+WARNING (017604): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 17718
+CIRCLE: layer="TopPasterLayer", c=(21355,16535), r=1
+HATCH entity, line 17738
+WARNING (017738): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 17852
+CIRCLE: layer="TopLayer", c=(21355,16535), r=1
+HATCH entity, line 17872
+WARNING (017872): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 17986
+CIRCLE: layer="TopSolderLayer", c=(21355,15264), r=1
+HATCH entity, line 18006
+WARNING (018006): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 18120
+CIRCLE: layer="TopPasterLayer", c=(21355,15264), r=1
+HATCH entity, line 18140
+WARNING (018140): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 18254
+CIRCLE: layer="TopLayer", c=(21355,15264), r=1
+HATCH entity, line 18274
+WARNING (018274): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 18388
+CIRCLE: layer="TopSolderLayer", c=(26774,18387), r=1
+HATCH entity, line 18408
+WARNING (018408): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 18514
+CIRCLE: layer="TopPasterLayer", c=(26774,18387), r=1
+HATCH entity, line 18534
+WARNING (018534): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 18640
+CIRCLE: layer="TopLayer", c=(26774,18387), r=1
+HATCH entity, line 18660
+WARNING (018660): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 18766
+CIRCLE: layer="TopSolderLayer", c=(3226,18064), r=1
+HATCH entity, line 18786
+WARNING (018786): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 18892
+CIRCLE: layer="TopPasterLayer", c=(3226,18064), r=1
+HATCH entity, line 18912
+WARNING (018912): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 19018
+CIRCLE: layer="TopLayer", c=(3226,18064), r=1
+HATCH entity, line 19038
+WARNING (019038): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 19144
+CIRCLE: layer="TopSolderLayer", c=(5639,18064), r=1
+HATCH entity, line 19164
+WARNING (019164): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 19270
+CIRCLE: layer="TopPasterLayer", c=(5639,18064), r=1
+HATCH entity, line 19290
+WARNING (019290): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 19396
+CIRCLE: layer="TopLayer", c=(5639,18064), r=1
+HATCH entity, line 19416
+WARNING (019416): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 19522
+CIRCLE: layer="TopSolderLayer", c=(8052,18064), r=1
+HATCH entity, line 19542
+WARNING (019542): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 19648
+CIRCLE: layer="TopPasterLayer", c=(8052,18064), r=1
+HATCH entity, line 19668
+WARNING (019668): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 19774
+CIRCLE: layer="TopLayer", c=(8052,18064), r=1
+HATCH entity, line 19794
+WARNING (019794): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 19900
+CIRCLE: layer="TopSolderLayer", c=(8052,23652), r=1
+HATCH entity, line 19920
+WARNING (019920): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 20026
+CIRCLE: layer="TopPasterLayer", c=(8052,23652), r=1
+HATCH entity, line 20046
+WARNING (020046): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 20152
+CIRCLE: layer="TopLayer", c=(8052,23652), r=1
+HATCH entity, line 20172
+WARNING (020172): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 20278
+CIRCLE: layer="TopSolderLayer", c=(3226,23652), r=1
+HATCH entity, line 20298
+WARNING (020298): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 20404
+CIRCLE: layer="TopPasterLayer", c=(3226,23652), r=1
+HATCH entity, line 20424
+WARNING (020424): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 20530
+CIRCLE: layer="TopLayer", c=(3226,23652), r=1
+HATCH entity, line 20550
+WARNING (020550): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 20656
+CIRCLE: layer="TopSolderLayer", c=(7241,10323), r=1
+HATCH entity, line 20676
+WARNING (020676): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 20782
+CIRCLE: layer="TopPasterLayer", c=(7241,10323), r=1
+HATCH entity, line 20802
+WARNING (020802): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 20908
+CIRCLE: layer="TopLayer", c=(7241,10323), r=1
+HATCH entity, line 20928
+WARNING (020928): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 21034
+CIRCLE: layer="TopSolderLayer", c=(3226,10323), r=1
+HATCH entity, line 21054
+WARNING (021054): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 21160
+CIRCLE: layer="TopPasterLayer", c=(3226,10323), r=1
+HATCH entity, line 21180
+WARNING (021180): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 21286
+CIRCLE: layer="TopLayer", c=(3226,10323), r=1
+HATCH entity, line 21306
+WARNING (021306): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 21412
+CIRCLE: layer="TopSolderLayer", c=(25017,30968), r=1
+HATCH entity, line 21432
+WARNING (021432): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 21538
+CIRCLE: layer="TopPasterLayer", c=(25017,30968), r=1
+HATCH entity, line 21558
+WARNING (021558): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 21664
+CIRCLE: layer="TopLayer", c=(25017,30968), r=1
+HATCH entity, line 21684
+WARNING (021684): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 21790
+CIRCLE: layer="TopSolderLayer", c=(29032,30968), r=1
+HATCH entity, line 21810
+WARNING (021810): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 21916
+CIRCLE: layer="TopPasterLayer", c=(29032,30968), r=1
+HATCH entity, line 21936
+WARNING (021936): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 22042
+CIRCLE: layer="TopLayer", c=(29032,30968), r=1
+HATCH entity, line 22062
+WARNING (022062): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 22168
+CIRCLE: layer="TopSolderLayer", c=(36129,12258), r=1
+HATCH entity, line 22188
+WARNING (022188): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 22294
+CIRCLE: layer="TopPasterLayer", c=(36129,12258), r=1
+HATCH entity, line 22314
+WARNING (022314): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 22420
+CIRCLE: layer="TopLayer", c=(36129,12258), r=1
+HATCH entity, line 22440
+WARNING (022440): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 22546
+CIRCLE: layer="TopSolderLayer", c=(36129,15561), r=1
+HATCH entity, line 22566
+WARNING (022566): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 22672
+CIRCLE: layer="TopPasterLayer", c=(36129,15561), r=1
+HATCH entity, line 22692
+WARNING (022692): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 22798
+CIRCLE: layer="TopLayer", c=(36129,15561), r=1
+HATCH entity, line 22818
+WARNING (022818): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 22924
+CIRCLE: layer="TopSolderLayer", c=(40645,25161), r=1
+HATCH entity, line 22944
+WARNING (022944): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 23050
+CIRCLE: layer="TopPasterLayer", c=(40645,25161), r=1
+HATCH entity, line 23070
+WARNING (023070): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 23176
+CIRCLE: layer="TopLayer", c=(40645,25161), r=1
+HATCH entity, line 23196
+WARNING (023196): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 23302
+CIRCLE: layer="TopSolderLayer", c=(40645,21858), r=1
+HATCH entity, line 23322
+WARNING (023322): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 23428
+CIRCLE: layer="TopPasterLayer", c=(40645,21858), r=1
+HATCH entity, line 23448
+WARNING (023448): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 23554
+CIRCLE: layer="TopLayer", c=(40645,21858), r=1
+HATCH entity, line 23574
+WARNING (023574): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 23680
+CIRCLE: layer="TopSolderLayer", c=(45806,14839), r=1
+HATCH entity, line 23700
+WARNING (023700): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 23806
+CIRCLE: layer="TopPasterLayer", c=(45806,14839), r=1
+HATCH entity, line 23826
+WARNING (023826): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 23932
+CIRCLE: layer="TopLayer", c=(45806,14839), r=1
+HATCH entity, line 23952
+WARNING (023952): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 24058
+CIRCLE: layer="TopSolderLayer", c=(45806,10516), r=1
+HATCH entity, line 24078
+WARNING (024078): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 24184
+CIRCLE: layer="TopPasterLayer", c=(45806,10516), r=1
+HATCH entity, line 24204
+WARNING (024204): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 24310
+CIRCLE: layer="TopLayer", c=(45806,10516), r=1
+HATCH entity, line 24330
+WARNING (024330): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 24436
+CIRCLE: layer="TopSolderLayer", c=(36129,25161), r=1
+HATCH entity, line 24456
+WARNING (024456): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 24562
+CIRCLE: layer="TopPasterLayer", c=(36129,25161), r=1
+HATCH entity, line 24582
+WARNING (024582): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 24688
+CIRCLE: layer="TopLayer", c=(36129,25161), r=1
+HATCH entity, line 24708
+WARNING (024708): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 24814
+CIRCLE: layer="TopSolderLayer", c=(36129,21858), r=1
+HATCH entity, line 24834
+WARNING (024834): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 24940
+CIRCLE: layer="TopPasterLayer", c=(36129,21858), r=1
+HATCH entity, line 24960
+WARNING (024960): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 25066
+CIRCLE: layer="TopLayer", c=(36129,21858), r=1
+HATCH entity, line 25086
+WARNING (025086): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 25192
+CIRCLE: layer="TopSolderLayer", c=(12903,21290), r=1
+HATCH entity, line 25212
+WARNING (025212): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 25318
+CIRCLE: layer="TopPasterLayer", c=(12903,21290), r=1
+HATCH entity, line 25338
+WARNING (025338): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 25444
+CIRCLE: layer="TopLayer", c=(12903,21290), r=1
+HATCH entity, line 25464
+WARNING (025464): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 25570
+CIRCLE: layer="TopSolderLayer", c=(12903,24593), r=1
+HATCH entity, line 25590
+WARNING (025590): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 25696
+CIRCLE: layer="TopPasterLayer", c=(12903,24593), r=1
+HATCH entity, line 25716
+WARNING (025716): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 25822
+CIRCLE: layer="TopLayer", c=(12903,24593), r=1
+HATCH entity, line 25842
+WARNING (025842): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 25948
+CIRCLE: layer="TopSolderLayer", c=(17419,12258), r=1
+HATCH entity, line 25968
+WARNING (025968): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 26074
+CIRCLE: layer="TopPasterLayer", c=(17419,12258), r=1
+HATCH entity, line 26094
+WARNING (026094): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 26200
+CIRCLE: layer="TopLayer", c=(17419,12258), r=1
+HATCH entity, line 26220
+WARNING (026220): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 26326
+CIRCLE: layer="TopSolderLayer", c=(17419,15561), r=1
+HATCH entity, line 26346
+WARNING (026346): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 26452
+CIRCLE: layer="TopPasterLayer", c=(17419,15561), r=1
+HATCH entity, line 26472
+WARNING (026472): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 26578
+CIRCLE: layer="TopLayer", c=(17419,15561), r=1
+HATCH entity, line 26598
+WARNING (026598): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 26704
+CIRCLE: layer="TopSolderLayer", c=(12903,12258), r=1
+HATCH entity, line 26724
+WARNING (026724): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 26830
+CIRCLE: layer="TopPasterLayer", c=(12903,12258), r=1
+HATCH entity, line 26850
+WARNING (026850): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 26956
+CIRCLE: layer="TopLayer", c=(12903,12258), r=1
+HATCH entity, line 26976
+WARNING (026976): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 27082
+CIRCLE: layer="TopSolderLayer", c=(12903,15561), r=1
+HATCH entity, line 27102
+WARNING (027102): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 27208
+CIRCLE: layer="TopPasterLayer", c=(12903,15561), r=1
+HATCH entity, line 27228
+WARNING (027228): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 27334
+CIRCLE: layer="TopLayer", c=(12903,15561), r=1
+HATCH entity, line 27354
+WARNING (027354): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 27460
+CIRCLE: layer="TopSolderLayer", c=(17419,24516), r=1
+HATCH entity, line 27480
+WARNING (027480): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 27586
+CIRCLE: layer="TopPasterLayer", c=(17419,24516), r=1
+HATCH entity, line 27606
+WARNING (027606): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 27712
+CIRCLE: layer="TopLayer", c=(17419,24516), r=1
+HATCH entity, line 27732
+WARNING (027732): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 27838
+CIRCLE: layer="TopSolderLayer", c=(17419,21213), r=1
+HATCH entity, line 27858
+WARNING (027858): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 27964
+CIRCLE: layer="TopPasterLayer", c=(17419,21213), r=1
+HATCH entity, line 27984
+WARNING (027984): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 28090
+CIRCLE: layer="TopLayer", c=(17419,21213), r=1
+HATCH entity, line 28110
+WARNING (028110): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 28216
+CIRCLE: layer="TopSolderLayer", c=(7097,27742), r=1
+HATCH entity, line 28236
+WARNING (028236): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 28342
+CIRCLE: layer="TopPasterLayer", c=(7097,27742), r=1
+HATCH entity, line 28362
+WARNING (028362): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 28468
+CIRCLE: layer="TopLayer", c=(7097,27742), r=1
+HATCH entity, line 28488
+WARNING (028488): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 28594
+CIRCLE: layer="TopSolderLayer", c=(3794,27742), r=1
+HATCH entity, line 28614
+WARNING (028614): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 28720
+CIRCLE: layer="TopPasterLayer", c=(3794,27742), r=1
+HATCH entity, line 28740
+WARNING (028740): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 28846
+CIRCLE: layer="TopLayer", c=(3794,27742), r=1
+HATCH entity, line 28866
+WARNING (028866): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 28972
+CIRCLE: layer="TopSolderLayer", c=(40645,12258), r=1
+HATCH entity, line 28992
+WARNING (028992): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 29098
+CIRCLE: layer="TopPasterLayer", c=(40645,12258), r=1
+HATCH entity, line 29118
+WARNING (029118): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 29224
+CIRCLE: layer="TopLayer", c=(40645,12258), r=1
+HATCH entity, line 29244
+WARNING (029244): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 29350
+CIRCLE: layer="TopSolderLayer", c=(40645,15561), r=1
+HATCH entity, line 29370
+WARNING (029370): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 29476
+CIRCLE: layer="TopPasterLayer", c=(40645,15561), r=1
+HATCH entity, line 29496
+WARNING (029496): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 29602
+CIRCLE: layer="TopLayer", c=(40645,15561), r=1
+HATCH entity, line 29622
+WARNING (029622): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 29728
+CIRCLE: layer="TopSolderLayer", c=(4516,3226), r=1129
+HATCH entity, line 29748
+WARNING (029748): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 29854
+CIRCLE: layer="BottomSolderLayer", c=(4516,3226), r=1129
+HATCH entity, line 29874
+WARNING (029874): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 29980
+CIRCLE: layer="Multi-Layer", c=(4516,3226), r=1129
+HATCH entity, line 30000
+WARNING (030000): Entity expected, found 'HATCH' - ignored.
+CIRCLE entity, line 30106
+CIRCLE: layer="Multi-Layer", c=(12903,27742), r=787
+CIRCLE entity, line 30126
+CIRCLE: layer="Hole", c=(12903,27742), r=387
+CIRCLE entity, line 30146
+CIRCLE: layer="Multi-Layer", c=(18710,18710), r=787
+CIRCLE entity, line 30166
+CIRCLE: layer="Hole", c=(18710,18710), r=387
+CIRCLE entity, line 30186
+CIRCLE: layer="Multi-Layer", c=(23548,10968), r=787
+CIRCLE entity, line 30206
+CIRCLE: layer="Hole", c=(23548,10968), r=387
+CIRCLE entity, line 30226
+CIRCLE: layer="Multi-Layer", c=(29032,33548), r=787
+CIRCLE entity, line 30246
+CIRCLE: layer="Hole", c=(29032,33548), r=387
+CIRCLE entity, line 30266
+CIRCLE: layer="Multi-Layer", c=(36129,28387), r=787
+CIRCLE entity, line 30286
+CIRCLE: layer="Hole", c=(36129,28387), r=387
+CIRCLE entity, line 30306
+CIRCLE: layer="Multi-Layer", c=(34193,16129), r=787
+CIRCLE entity, line 30326
+CIRCLE: layer="Hole", c=(34193,16129), r=387
+CIRCLE entity, line 30346
+CIRCLE: layer="Multi-Layer", c=(35484,19355), r=787
+CIRCLE entity, line 30366
+CIRCLE: layer="Hole", c=(35484,19355), r=387
+CIRCLE entity, line 30386
+CIRCLE: layer="Multi-Layer", c=(14194,18710), r=787
+CIRCLE entity, line 30406
+CIRCLE: layer="Hole", c=(14194,18710), r=387
+CIRCLE entity, line 30426
+CIRCLE: layer="Multi-Layer", c=(48387,9677), r=787
+CIRCLE entity, line 30446
+CIRCLE: layer="Hole", c=(48387,9677), r=387
+CIRCLE entity, line 30466
+CIRCLE: layer="Multi-Layer", c=(40645,9677), r=787
+CIRCLE entity, line 30486
+CIRCLE: layer="Hole", c=(40645,9677), r=387
+CIRCLE entity, line 30506
+CIRCLE: layer="Multi-Layer", c=(33548,10968), r=787
+CIRCLE entity, line 30526
+CIRCLE: layer="Hole", c=(33548,10968), r=387
+CIRCLE entity, line 30546
+CIRCLE: layer="Multi-Layer", c=(47742,35484), r=3810
+CIRCLE entity, line 30566
+CIRCLE: layer="Multi-Layer", c=(6452,35484), r=3810
+HATCH entity, line 30586
+WARNING (030586): Entity expected, found 'HATCH' - ignored.
+WARNING (------): ARC start and end angles the same - discarded
